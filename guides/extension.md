@@ -1,8 +1,8 @@
-# Extensions
+# 拓展
 
-<p class="uk-article-lead">Create an extension to add features of your own to Pagekit.</p>
+<p class="uk-article-lead">为Pagekit编写拓展程序并添加你想要的性能.</p>
 
-The *Hello Extension* in the marketplace as it is a collection of examples and best-practices for extension development. The examples in this guide can all be found in the Hello Extension.
+ *Hello Extension* in the marketplace as it is a collection of examples and best-practices for extension development. The examples in this guide can all be found in the Hello Extension.
 
 ## Basic structure
 
